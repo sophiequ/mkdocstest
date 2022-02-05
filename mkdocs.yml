@@ -1,0 +1,11 @@
+site_name: Test docs
+site_description: 'A docs test'
+site_author: 'Sophie'
+docs_dir: src/
+repo_name: 'sophiequ/mkdocstest'
+repo_url: 'https://github.com/sophiequ/mkdocstest'
+nav:
+    - Home: index.md
+theme:
+  name: 'readthedocs'
+dev_addr: '0.0.0.0:8080'
